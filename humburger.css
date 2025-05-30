@@ -1,0 +1,40 @@
+.box-a {
+width: 150px;
+height: 150px;
+background-color:rgb(177, 177, 177);
+padding: 10px;
+border-radius: 100%;
+align-content:center;
+position: relative;
+}
+.box-b
+{
+background-color:rgb(116, 116, 116);
+width: 80px;
+height: 15px;
+display:block;
+position:absolute;
+top: 30px;
+left: 45px;
+}
+
+.box-c
+{
+background-color:rgb(116, 116, 116);
+width: 80px;
+height: 15px;
+display:block;
+position:absolute;
+top: 70px;
+left: 45px;
+}
+.box-d
+{
+background-color:rgb(116, 116, 116);
+width: 80px;
+height: 15px;
+display:block;
+position:absolute;
+top: 110px;
+left: 45px;
+}
